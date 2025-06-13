@@ -29,6 +29,7 @@ Bu proje, çevrim içi perakende sektöründe faaliyet gösteren bir işletmenin
   - **Doğruluk (Accuracy):** ~%85
   - **Precision ve Recall:** Dengeli
   - **Confusion Matrix** ve **Feature Importance** görselleri ile desteklendi
+![featureImportancepng](https://github.com/user-attachments/assets/33375ae9-701b-43d4-9981-7a01995fd5f5)
 
 ## 🏢 İşletmeye Katkısı
 - Sadık müşteriler önceden belirlenerek onlara özel teklifler sunulabilir.
